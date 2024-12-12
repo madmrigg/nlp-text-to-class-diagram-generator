@@ -1,0 +1,23 @@
+1. A company consists of departments.
+Departments are located in one or more offices.
+One office acts as a headquarter.
+Each department has a manager who is recruited from the set of employees
+
+2. A bicycle has various parts and functions.
+It must have a rider, movement, acceleration, deceleration and brakes.
+It may also contain lights, a storage bag and other accessories.
+
+3. The Godot game-engine has various parts as servers.
+It is divided into the renderer, the physics server,
+ the audio server and the 2D server.
+It also contains support for external plugins and interfaces.
+
+4. A good level editor is a mixture of various tools.
+It has brush-editor, mesh-editor and texture-editor.
+The brush-editor paints meshes based on pointer inputs.
+The mesh editor allows fine manipulation of geometry.
+The texture-editor allows editing UVs easily.
+
+5.A diagram generator allows generation of diagrams. 
+The diagrams are based on user inputs.
+The user inputs may be text or parameters.
